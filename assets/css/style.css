@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h5{
+    color: var(--title-color);
+    font-weight:300;
+    font-size: 20px 24px;
+}
+.card {
+    width: 278px;
+}
+.card-text {
+    color: var(--text-color);
+    font-weight:300;
+    font-size: 16px 19px;
+}
+
+.card-text {
+    color: var(--text-color);
+    font-weight:300;
+    font-size: 16px;
+}
+.ubicación {
+    color: var(--text-color);
+    font-weight:300;
+    font-size: 13px;
+}
+.valor1 {
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.valor2 {
+    font-weight: 500;
+    font-size: 20px;
+}
+h4 {
+    font-size: 21px;
+    text-align: center;
+    font-weight: 500;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+::placeholder {
+    font-weight: 300;
+}
+
+footer {
+    text-align: center;
+    font-weight: 300;
+    font-size: 16px;
+    color: var(--text-color)
+}

@@ -1,0 +1,23 @@
+:root {
+    --verde-color: #28A745;
+    --text-color: #707070;
+    --title-color: #212529;
+    --title2-color: #FFFFFF;
+    --btn-color: #FFFFFF;
+}
+
+.bg-verde {
+    background-color: var(--verde-color);
+}
+.text-color {
+    color: var(--text-color);
+}
+.valor-color {
+    color: var(--verde-color);
+}
+.title-color {
+    color: var(--title-color);
+}
+.btn-color {
+    background-color: white;
+}
